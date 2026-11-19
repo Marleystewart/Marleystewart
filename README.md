@@ -16,7 +16,10 @@ My interests sit at the intersection of software engineering, artificial intelli
 ### 🩺 Nalia | Founder
 **Health Technology & Care Coordination**
 
-Nalia is a care coordination platform helping families managing ongoing or complex care keep important information organized in one place.
+Nalia is a care coordination platform helping families managing ongoing or complex care keep important information organized in one place. 
+
+<img width="1321" height="776" alt="Screenshot 2026-11-19 at 3 51 15 PM" src="https://github.com/user-attachments/assets/fb1a2c8d-74f9-4c8d-b827-f90d6943fe1d" />
+
 
 The platform brings together:
 - Appointments and medication tracking
@@ -36,6 +39,9 @@ The platform brings together:
 Promptly is a platform designed to simplify the internship search process by bringing opportunities from employer career pages into one place.
 
 The platform monitors hundreds of employer websites and helps users discover relevant internship opportunities without having to search each company individually.
+
+<img width="1458" height="790" alt="Screenshot 2026-11-19 at 3 53 31 PM" src="https://github.com/user-attachments/assets/98316141-e803-4d48-af48-6345f3fb7724" />
+
 
 **Focus:** Automation, Web Applications, Product Development
 
